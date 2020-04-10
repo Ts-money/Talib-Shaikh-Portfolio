@@ -1400,6 +1400,12 @@ ol {
           transform: rotate(-45deg);
 }
 
+.unrotate {
+  -webkit-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+
 .icon1 i,
 .icon2 i,
 .icon3 i,
